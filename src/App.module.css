@@ -1,0 +1,11 @@
+.App{
+    text-align: center;
+
+}
+
+.appTitle{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    padding: 0.5em;
+}
